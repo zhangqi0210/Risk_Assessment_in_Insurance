@@ -48,8 +48,8 @@ The project adopts a rigorous data analysis approach, including but not limited 
 
 ### Financial Metrics
 Two key financial metrics are used to evaluate the risk:
-- **Loss Ratio**: \[ \frac{{\text{{Claim Amount}}}}{{\text{{Total Premium}}}} \]
-- **Combined Ratio**: \[ \frac{{\text{{Claim Amount}} + \text{{Expense Amount}}}}{{\text{{Total Premium}}}} \]
+- **Loss Ratio**: $\frac{{\text{{Claim Amount}}}}{{\text{{Total Premium}}}}$
+- **Combined Ratio**: $\frac{{\text{{Claim Amount}} + \text{{Expense Amount}}}}{{\text{{Total Premium}}}}$
 
 ---
 
